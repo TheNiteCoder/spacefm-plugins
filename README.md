@@ -21,3 +21,7 @@ odt -> docx, pdf
 ## Run-In-Terminal
 
 Easy command to run script in terminal
+
+## Layouts
+
+Commands to setup a given layout
